@@ -1,0 +1,5 @@
+path: /search, search: ?name=asad&age=18&country=pk, query: "name=asad&age=18&country=pk"
+path: /search, search: ?name=asad&age=18&country=pk, query: name=asad&age=18&country=pk
+path: /search, search: ?name=asad&age=18&country=pk
+path: /search, search: ?name=asad&age=18&country=pk
+path: /search, search: ?name=asad&age=18&country=pk
